@@ -1,0 +1,27 @@
+{
+ "curator": {
+  "name": "Yasemin",
+  "orcid": "ORCID:0009-0001-1754-9409",
+  "role": "core curator (sandbox test)",
+  "trust": 0.85,
+  "trust_as_of": "2026-10-21"
+ },
+ "decided_at": "2026-10-21T18:49:55+00:00",
+ "decision_id": "dec_db601479f239053e",
+ "format": "mondo-evidence-browser/decision/v1",
+ "outcome": "accepted",
+ "packet_id": "pkt_e27a7e05d319",
+ "packet_version": "v_e08369156433faa1",
+ "score": {
+  "band": "strong support",
+  "rule_id": "mondo-inclusion-score",
+  "rule_version": "0.1.0-uncalibrated",
+  "value": 0.992631520201128
+ },
+ "statement": {
+  "object": "Granulocytic sarcoma",
+  "predicate": "oio:hasExactSynonym",
+  "subject": "MONDO:0006861"
+ },
+ "statement_id": "stmt_9f984e3605e9"
+}
