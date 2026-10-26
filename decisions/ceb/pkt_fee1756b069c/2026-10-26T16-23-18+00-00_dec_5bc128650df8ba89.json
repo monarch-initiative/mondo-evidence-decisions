@@ -1,0 +1,27 @@
+{
+ "curator": {
+  "name": "Yasemin",
+  "orcid": "ORCID:0009-0001-1754-9409",
+  "role": "core curator (sandbox test)",
+  "trust": 0.85,
+  "trust_as_of": "2026-10-26"
+ },
+ "decided_at": "2026-10-26T16:23:18+00:00",
+ "decision_id": "dec_5bc128650df8ba89",
+ "format": "mondo-evidence-browser/decision/v1",
+ "outcome": "accepted",
+ "packet_id": "pkt_fee1756b069c",
+ "packet_version": "v_d16591d7d2e7996c",
+ "score": {
+  "band": "strong support",
+  "rule_id": "mondo-inclusion-score",
+  "rule_version": "0.1.0-uncalibrated",
+  "value": 0.9086976584311125
+ },
+ "statement": {
+  "object": "HNARMD",
+  "predicate": "oio:hasExactSynonym",
+  "subject": "MONDO:0030689"
+ },
+ "statement_id": "stmt_7c76e5775856"
+}
