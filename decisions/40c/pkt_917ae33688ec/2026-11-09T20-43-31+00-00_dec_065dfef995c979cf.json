@@ -1,0 +1,26 @@
+{
+ "curator": {
+  "name": "Sabrina Toro",
+  "orcid": "ORCID:0000-0002-4142-7153",
+  "role": "unregistered (open sign-off)",
+  "trust_as_of": "2026-11-09"
+ },
+ "decided_at": "2026-11-09T20:43:31+00:00",
+ "decision_id": "dec_065dfef995c979cf",
+ "format": "mondo-evidence-browser/decision/v1",
+ "outcome": "controversial",
+ "packet_id": "pkt_917ae33688ec",
+ "packet_version": "v_137e9ba7096f251d",
+ "score": {
+  "band": "strong support",
+  "rule_id": "mondo-inclusion-score",
+  "rule_version": "0.1.0-uncalibrated",
+  "value": 0.992631520201128
+ },
+ "statement": {
+  "object": "Chloroma",
+  "predicate": "oio:hasExactSynonym",
+  "subject": "MONDO:0006861"
+ },
+ "statement_id": "stmt_7b0359636447"
+}
