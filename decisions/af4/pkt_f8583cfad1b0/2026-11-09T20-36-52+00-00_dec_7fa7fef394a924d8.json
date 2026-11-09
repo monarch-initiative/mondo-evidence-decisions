@@ -1,0 +1,28 @@
+{
+ "curator": {
+  "name": "Sabrina Toro",
+  "orcid": "ORCID:0000-0002-4142-7153",
+  "role": "unregistered (open sign-off)",
+  "trust_as_of": "2026-11-09"
+ },
+ "decided_at": "2026-11-09T20:36:52+00:00",
+ "decision_id": "dec_7fa7fef394a924d8",
+ "format": "mondo-evidence-browser/decision/v1",
+ "outcome": "rejected",
+ "packet_id": "pkt_f8583cfad1b0",
+ "packet_version": "v_c0cd190ce01af10d",
+ "perspective": "my perspective",
+ "rationale": "I want to be contrarian",
+ "score": {
+  "band": "strong support",
+  "rule_id": "mondo-inclusion-score",
+  "rule_version": "0.1.0-uncalibrated",
+  "value": 0.9946439816275737
+ },
+ "statement": {
+  "object": "LECD",
+  "predicate": "oio:hasExactSynonym",
+  "subject": "MONDO:0010425"
+ },
+ "statement_id": "stmt_18a47f16593f"
+}
