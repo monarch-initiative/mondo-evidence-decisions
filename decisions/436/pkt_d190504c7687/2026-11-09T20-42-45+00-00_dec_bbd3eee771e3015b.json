@@ -1,0 +1,26 @@
+{
+ "curator": {
+  "name": "Sabrina Toro",
+  "orcid": "ORCID:0000-0002-4142-7153",
+  "role": "unregistered (open sign-off)",
+  "trust_as_of": "2026-11-09"
+ },
+ "decided_at": "2026-11-09T20:42:45+00:00",
+ "decision_id": "dec_bbd3eee771e3015b",
+ "format": "mondo-evidence-browser/decision/v1",
+ "outcome": "accepted",
+ "packet_id": "pkt_d190504c7687",
+ "packet_version": "v_5c36ba060b0c2a63",
+ "score": {
+  "band": "strong support",
+  "rule_id": "mondo-inclusion-score",
+  "rule_version": "0.1.0-uncalibrated",
+  "value": 0.992631520201128
+ },
+ "statement": {
+  "object": "Pilomatricoma",
+  "predicate": "oio:hasExactSynonym",
+  "subject": "MONDO:0007564"
+ },
+ "statement_id": "stmt_675f207bcfe9"
+}
